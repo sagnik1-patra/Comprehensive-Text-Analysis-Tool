@@ -1,0 +1,113 @@
+{
+  "documents": 2225,
+  "vocabulary_terms": 9635,
+  "nonzero_matrix_entries": 286774,
+  "total_word_occurrences": 425832,
+  "estimated_characters_in_tokens": 2265461,
+  "average_word_length": 5.32,
+  "average_document_length": 191.385,
+  "mean_term_frequency": 44.196,
+  "median_term_frequency": 10.0,
+  "std_term_frequency": 111.586,
+  "frequency_percentiles": {
+    "25": 5.0,
+    "50": 10.0,
+    "75": 31.0
+  },
+  "vowel_consonant_ratio": 0.6011,
+  "most_common_character": [
+    [
+      "e",
+      229079.0
+    ]
+  ],
+  "least_common_characters": [
+    "\u00a3"
+  ],
+  "zipf_slope": -1.2855,
+  "document_length_outliers": 57,
+  "sentence_statistics_available": false,
+  "original_articles_supplied": 0,
+  "top_terms": [
+    [
+      "year",
+      2830.0
+    ],
+    [
+      "peopl",
+      2044.0
+    ],
+    [
+      "game",
+      1640.0
+    ],
+    [
+      "time",
+      1487.0
+    ],
+    [
+      "first",
+      1283.0
+    ],
+    [
+      "govern",
+      1246.0
+    ],
+    [
+      "world",
+      1214.0
+    ],
+    [
+      "get",
+      1196.0
+    ],
+    [
+      "plai",
+      1193.0
+    ],
+    [
+      "film",
+      1141.0
+    ],
+    [
+      "compani",
+      1113.0
+    ],
+    [
+      "work",
+      1086.0
+    ],
+    [
+      "show",
+      1025.0
+    ],
+    [
+      "sai",
+      1008.0
+    ],
+    [
+      "firm",
+      1004.0
+    ],
+    [
+      "against",
+      970.0
+    ],
+    [
+      "want",
+      967.0
+    ],
+    [
+      "just",
+      957.0
+    ],
+    [
+      "music",
+      946.0
+    ],
+    [
+      "back",
+      942.0
+    ]
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "source": "Original .txt files in original_articles/ only",
+  "files": {},
+  "note": "Regex results are not inferred from bag-of-words data."
+}
